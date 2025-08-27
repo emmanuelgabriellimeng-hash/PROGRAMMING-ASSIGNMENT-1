@@ -1,4 +1,4 @@
-# Programming Assignment 1 – Introduction to Python Programming
+# PA 1 – Introduction to Python Programming
 
 ## Overview
 
