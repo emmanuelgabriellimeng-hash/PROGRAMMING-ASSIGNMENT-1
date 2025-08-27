@@ -4,14 +4,17 @@
 
 This experiment explores the foundational elements of Python programming such as string manipulation, list handling, function creation, dictionary use, and user input processing.
 ## Directory
-Alphabet Soup Problem: https://github.com/emmanuelgabriellimeng-hash/PROGRAMMING-ASSIGNMENT-1/blob/main/README.md#alphabet-soup-problem
+Alphabet Soup Problem:
+* https://github.com/emmanuelgabriellimeng-hash/PROGRAMMING-ASSIGNMENT-1/blob/main/README.md#alphabet-soup-problem
 
-Emoticon Problem: https://github.com/emmanuelgabriellimeng-hash/PROGRAMMING-ASSIGNMENT-1/blob/main/README.md#emoticon-problem
+Emoticon Problem:
+* https://github.com/emmanuelgabriellimeng-hash/PROGRAMMING-ASSIGNMENT-1/blob/main/README.md#emoticon-problem
 
-Unpacking Problem: https://github.com/emmanuelgabriellimeng-hash/PROGRAMMING-ASSIGNMENT-1/blob/main/README.md#unpacking-list-problem
+Unpacking Problem:
+* https://github.com/emmanuelgabriellimeng-hash/PROGRAMMING-ASSIGNMENT-1/blob/main/README.md#unpacking-list-problem
 
-## Program Link
-### https://github.com/emmanuelgabriellimeng-hash/PROGRAMMING-ASSIGNMENT-1/blob/main/LIM_2ECEB_Experiment_1.ipynb
+Program Link
+* https://github.com/emmanuelgabriellimeng-hash/PROGRAMMING-ASSIGNMENT-1/blob/main/LIM_2ECEB_Experiment_1.ipynb
 
 ## Alphabet Soup Problem
 
