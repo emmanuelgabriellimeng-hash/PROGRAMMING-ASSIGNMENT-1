@@ -10,7 +10,7 @@ Alphabet Soup Problem:
 Emoticon Problem:
 * https://github.com/emmanuelgabriellimeng-hash/PROGRAMMING-ASSIGNMENT-1/blob/main/README.md#emoticon-problem
 
-Unpacking Problem:
+Unpacking List Problem:
 * https://github.com/emmanuelgabriellimeng-hash/PROGRAMMING-ASSIGNMENT-1/blob/main/README.md#unpacking-list-problem
 
 Program Link
